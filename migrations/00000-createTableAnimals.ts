@@ -25,8 +25,7 @@ export async function up(sql: Sql) {
       first_name varchar(30) NOT NULL,
       type varchar(30) NOT NULL,
       accessory varchar(30),
-      birth_date date NOT NULL,
-      testing TEXT
+      birth_date date NOT NULL
     )
   `;
 }
