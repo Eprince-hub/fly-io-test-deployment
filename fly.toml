@@ -1,4 +1,4 @@
-app = "next-js-example-winter-2024-atvie"
+app = "next-example-test-deployment"
 primary_region = "otp"
 
 [mounts]
